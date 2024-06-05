@@ -1,2 +1,2 @@
 # SentimentAnalysis
-Sentiment analysis on Moview Rewiews dataset
+Sentiment analysis on Movie Rewiews dataset
